@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+body,.yincol
+{
+    background-color: #F7F5F1;
+    color: black;
+}
+h1 {
+    text-align: center;
+}
+.concol
+{
+    text-align: center;
+
+    margin-top: 50px;
+
+}
+font,.smh
+{
+    font-size: 20px;
+}
+.inform
+{
+
+    font-size: 18px;
+}
+.yincol
+{
+    margin-bottom: 3px;
+}
+.yconcon
+{
+    margin-top: 10px;
+}
+.ymarcon
+{
+    margin-top: 20px;
+}
+.yconcon input,textarea{
+    border-color: gray !important;
+}
+.btn{
+    background:linear-gradient(-45deg,gray,#F7F5F1,gray);
+}

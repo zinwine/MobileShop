@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.footer{
+    /*color: black !important;*/
+    background-color: #272822;
+    color: white;
+}
+.footer .fa{
+    color: black !important;
+    /*width: 30px !important;*/
+    color: #609AEA !important;
+}
+
+.footer .well{
+    background-color: #E8DCA3 !important;
+    height: 250px;
+}
